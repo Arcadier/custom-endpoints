@@ -1,6 +1,6 @@
 # Custom Endpoints
 
-##Simple endpoint to receive data, process it, and send a response
+## Simple endpoint to receive data, process it, and send a response
 
 After installing the plugin on your marketplace, the URL of the endpoint will depend on the folder in which you stored the PHP script.
 
